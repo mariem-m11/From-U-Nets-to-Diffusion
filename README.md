@@ -1,9 +1,5 @@
 # Generative AI with Diffusion Models - Notes
 
-This repository contains Jupyter notebooks and notes for the NVIDIA course "Generative AI with Diffusion Models". 
-
-## Course Outline
-
 ### Part 1: From U-Nets to Diffusion
 Part 1 discusses the early history of image generation AI and introduces a key concept: transposed convolution. This technique enables GANs for generating new images and U-Nets in segmentation networks. The differences between transposed convolution and deconvolution are also compared.
 - **Key Topics**: U-Nets, GANs, Image Segmentation, Transposed Convolution.
