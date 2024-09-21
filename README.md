@@ -1,4 +1,4 @@
-# Generative AI with Diffusion Models - NVIDIA Course Notebooks
+# Generative AI with Diffusion Models - Notes
 
 This repository contains Jupyter notebooks and notes for the NVIDIA course "Generative AI with Diffusion Models". 
 
